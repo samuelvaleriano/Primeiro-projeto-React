@@ -1,3 +1,4 @@
+import BtgGlobal from "../botãoGlobal"
 import "./styles.css"
 
 function Header(){
@@ -10,7 +11,7 @@ function Header(){
                 <li>Restaurantes</li>
                 <li>Informações</li>
                 <li>Cadastre-se</li>
-                <li><button className="btgGlobal">Entrar</button></li>
+                <li><BtgGlobal nome="Entrar"/></li>
             </ul>
         </nav>
         
