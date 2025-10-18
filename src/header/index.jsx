@@ -5,7 +5,7 @@ function Header(){
     return(
         <>
         <nav className="navegador">
-            <span>UnyFood</span>
+            <span className="spanLogo">UnyFood</span>
             <ul className="lista">
                 <li>Categorias</li>
                 <li>Restaurantes</li>
