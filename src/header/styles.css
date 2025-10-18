@@ -1,0 +1,29 @@
+.navegador{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 40px;
+    margin-bottom: 60px;
+
+}
+
+span{
+    color: #ED1C16;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.lista, li{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    align-items: center;
+}
+.lista li:hover{
+    color: #ED1C16;
+    transform: scale(1.1);
+}

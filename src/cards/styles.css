@@ -1,0 +1,59 @@
+.cards{
+    margin: 50px auto;
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.imgcard{
+    width: 170px;
+    height: 150px;
+}
+
+.inputcard1{
+    width: 159px;
+    background-color: #BC1611; 
+}
+.inputcard1::placeholder{
+    color: #FFFFFF;
+}
+.inputcard2{
+    width: 159px;    
+    background-color: #06752b;
+}
+.inputcard2::placeholder{
+    color: #FFFFFF;
+}
+.divinput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+.divpai1{
+    padding-top: 5px;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #ED1C16;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.divpai2{
+    padding-top: 5px;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #009432;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
