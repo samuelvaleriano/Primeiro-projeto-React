@@ -1,0 +1,24 @@
+.lojasProximas{
+    margin:30px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center ;
+}
+.spanLojas{
+    font-size: 24px;
+}
+.tituloLojas{
+    text-align: start;
+    margin-top: 150px;
+    margin-left: 100px;
+    height: 10px;
+}
+.verMaisLojas{
+    text-align: end;
+    margin-right: 100px;
+    color: #F57D00;
+}
