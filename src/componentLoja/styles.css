@@ -3,13 +3,15 @@
     height: 80px;
     background-color: lightblue;
     border-radius: 50%;
+    
 }
 .cardLoja{
-    width: 300px;
-    height: 150px;
+    width: 350px;
+    height: 200px;
     border-radius: 10px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
+    font-size: 1.1rem;
 }

@@ -1,0 +1,38 @@
+.cardinformacao{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 50px;
+}
+
+.informePai1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+.informePai2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+.imgInfo{
+    width: 280px
+}
+.textoInformacao{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    gap: 20px;
+    font-size: 1.3rem;
+}
+.tituloInfo{
+    text-align: start;
+    margin-top: 150px;
+    margin-left: 60px;
+    height: 10px;
+}
