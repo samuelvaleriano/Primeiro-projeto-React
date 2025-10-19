@@ -4,6 +4,7 @@ import Header from "./header"
 import Pesquisa from "./pesquisa"
 import ApresentacaoLojas from "./apresentacaoLojas"
 import Informacao from "./informacao"
+import Footer from "./rodape"
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
         <Cards />
         <ApresentacaoLojas />
         <Informacao />
+        <Footer />
     </>
   )
 }

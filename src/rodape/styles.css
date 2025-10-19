@@ -1,0 +1,16 @@
+.rodape{
+    width: 100vw;
+    height: 180px;
+    background-color: #ED1C16;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    color: #ffffff;
+    font-size: 1.1rem;
+}
+.icoRodape{
+    font-size: 29px;
+    cursor: pointer;
+}
